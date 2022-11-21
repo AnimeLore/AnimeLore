@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native project<br>🤝 I’m looking for help with React Native<br>🌱 I’m currently learning hermione and jest<br>💬 Ask me about anything related to hermione<br>⚡ Fun fact - hermione is really buggy
+🔭 I’m currently working on personal React Native project, RioWorld's website<br>🤝 I’m looking for help with React Native<br>🌱 I’m currently learning hermione and jest<br>💬 Ask me about anything related to hermione<br>⚡ Fun fact - hermione is really buggy
 
 
 # 💻 Tech Stack:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AnimeLore&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
