@@ -5,7 +5,7 @@
 
 
 # 💻 Tech Stack:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gilroy&weight=100&size=36&duration=1500&pause=2000&color=22F7C6&center=true&vCenter=true&multiline=true&width=446&height=280&lines=JS%2FTS+(React%2C+Vue);+PHP;Python;SCSS;C%23;and+more..)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gilroy&weight=100&size=36&duration=1500&pause=500&color=22F7C6&center=true&vCenter=true&multiline=true&width=446&height=280&lines=JS%2FTS+(React%2C+Vue);+PHP;Python;SCSS;C%23;and+more..)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnimeLore&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnimeLore&theme=react&hide_border=true)<br/>
