@@ -1,7 +1,7 @@
 <img src="https://github.com/AnimeLore/AnimeLore/blob/main/imlore.png" alt="Hi 👋, I'm AnimeLore">
 
 # 💫 About Me:
-🔭 I’m currently working on personal **[React Native](https://github.com/facebook/react-native)** project, RioWorld's website<br>🤝 I’m looking for help with **[React Native](https://github.com/facebook/react-native)**<br>🌱 I’m currently learning **[hermione](https://github.com/gemini-testing/hermione)** and **[jest](https://github.com/facebook/jest)**<br>💬 Ask me about anything related to **[hermione](https://github.com/gemini-testing/hermione)** and **HTML5**<br>⚡ Fun fact - **[hermione](https://github.com/gemini-testing/hermione)** is really *buggy*
+🔭 I’m currently working on personal **[React Native](https://github.com/facebook/react-native)** project<br>🤝 I’m looking for help with **[React Native](https://github.com/facebook/react-native)**<br>🌱 I’m currently learning **[hermione](https://github.com/gemini-testing/hermione)** and **[jest](https://github.com/facebook/jest)**<br>💬 Ask me about anything related to **[hermione](https://github.com/gemini-testing/hermione)** and **HTML5**<br>⚡ Fun fact - **[hermione](https://github.com/gemini-testing/hermione)** is really *buggy*
 
 
 # 💻 Tech Stack:
